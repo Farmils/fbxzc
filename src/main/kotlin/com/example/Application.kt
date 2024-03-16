@@ -1,14 +1,52 @@
+	
+
+
+
 package com.example
 
 import com.example.plugins.*
 import io.ktor.server.application.*
 import io.ktor.server.engine.*
-import io.ktor.server.netty.*
+pamow4ibtjwep['orkms;'lygjhdslopkjg,psdlfg';dkg';khqwertyuiol;lkjhkljdsfnhg
+asfd 
+shdf
+hd
+fsh
+sdgf
+fgf
+jd
+fh
+kl
+fghjl
 
-fun main() {
-    embeddedServer(Netty, port = 8080, host = "0.0.0.0", module = Application::module)
-        .start(wait = true)
-}
+ghlk
+fd
+hsdf
+gsad
+y
+srtu
+mt
+r
+ty,u
+,iufty
+mrtu
+tnybetyberst
+nrytd
+tmyu
+,
+iuo.
+iyu,o.
+y,
+tmuym
+rtyr
+enmdtnm
+rtyd
+rmyut
+rmuty
+uytty
+iu,
+uiy
+
 
 fun Application.module() {
     configureSerialization()
